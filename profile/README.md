@@ -29,24 +29,24 @@
 
 ### 01. Java 로드맵
 
-- Github Project Name: [01-java-roadmap](#)
+- Github Project Name: 01-java-roadmap
 - 인프런 로드맵: [김영한의 실전 자바](https://www.inflearn.com/roadmaps/744)
 
 
 ### 02. Spring 로드맵
 
-- Github Project Name: [02-spring-roadmap](#)
+- Github Project Name: [02-spring-roadmap](https://github.com/orgs/chocobe-study-java-backend/projects/1)
 - 인프런 로드맵: [우아한형제들 최연소 기술이사 출신 김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
 
 
 ### 03. Database 로드맵
 
-- Github Project Name: [03-database-roadmap](#)
+- Github Project Name: 03-database-roadmap
 - 인프런 로드맵: [김영한의 실전 데이터베이스 로드맵](https://www.inflearn.com/roadmaps/10479)
 
 
 ### 04. SpringBoot & JPA 로드맵
 
-- Github Project Name: [02-springboot-jpa-roadmap](#)
+- Github Project Name: 04-springboot-jpa-roadmap
 - 인프런 로드맵: [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149)
 
